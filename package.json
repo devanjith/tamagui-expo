@@ -1,6 +1,6 @@
 {
   "name": "tamagui-expo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "expo-router/entry",
   "repository": {
     "url": "https://github.com/devanjith/tamagui-expo"
@@ -99,6 +99,5 @@
     "semantic-release": "19.0.5",
     "typescript": "^5.1.3"
   },
-  "private": false,
   "packageManager": "yarn@3.6.4"
 }
